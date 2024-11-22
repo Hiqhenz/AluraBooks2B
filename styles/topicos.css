@@ -1,5 +1,5 @@
 .topicos{
-    background-color: var(--azul-degrade);
+    background: var(--azul-degrade);
     text-align: center;
 }
 .topicos-titulo{
